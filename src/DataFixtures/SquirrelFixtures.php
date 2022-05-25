@@ -17,4 +17,5 @@ class SquirrelFixtures extends Fixture
         }
         $manager->flush();
     }
+
 }
